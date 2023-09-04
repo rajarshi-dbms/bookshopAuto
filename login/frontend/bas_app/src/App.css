@@ -1,0 +1,17 @@
+/* .app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  height: 100vh;
+  background-color: aqua; 
+ background-image: url("../b1.png");
+} */
+
+.home{
+  background-image: url("../b1.png");
+ } 
+
+
+
